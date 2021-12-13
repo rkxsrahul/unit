@@ -1,0 +1,32 @@
+[verification]
+  subject="Neuron Labs - Verification Code"
+  template="./templates/verify.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-verification-code.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[forgotPassword]
+  subject="Neuron Labs - Reset your Password"
+  template="./templates/forgot-password.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-forgot-password.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[recoverWorkspace]
+  subject="Neuron Labs - Recover Workspace"
+  template="./templates/forgot-workspace.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-forgot-workspace.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[inviteLink]
+  subject="Neuron Labs"
+  template="./templates/invite-member.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-invite-member.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[loginLink]
+  subject="Neuron Labs"
+  template="./templates/login-member.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-invite-member.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[awskeys]
+  subject="Neuron Labs - AWS Keys"
+  template="./templates/aws-keys.tmpl"
+  images=["./images/stacklabs.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[notification]
+  subject="Neuron Labs - New Workspace Registered"
+  template="./templates/workspace-notification.tmpl"
+  images=["./images/stacklabs.png","./images/stacklabs-invite-member.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]
+[vmcreation]
+  subject="Neuron Labs - Compute Instance Creation Request"
+  template="./templates/vm-creation.tmpl"
+  images=["./images/stacklabs.png","./images/vm-creation.png","./images/facebook-logo.png","./images/twitter-logo.png","./images/linkedin-logo.png","./images/email-logo.png"]

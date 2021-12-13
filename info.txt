@@ -1,0 +1,11 @@
+2021/04/09 12:11:40 main.go:75: Logging to a file in Go!
+2021/04/09 12:11:40 config.go:198: example1.toml
+2021/04/09 12:11:40 logger.go:44: debug logging disabled
+2021/04/09 12:11:40 logger.go:44: Initializing logging reporter
+2021/04/09 12:11:40 logger.go:44: debug logging disabled
+2021/04/09 12:11:40 config.go:198: example1.toml
+2021/04/09 12:11:40 sign.go:19: 8
+2021/04/09 12:11:40 setup.go:121: ==============================================
+2021/04/09 12:11:40 setup.go:141: admin
+2021/04/09 12:11:40 setup.go:154: LDAP Result Code 65 "Object Class Violation": object class 'posixAccount' requires attribute 'gidNumber'
+2021/04/09 12:11:40 setup.go:51: LDAP account creation error:  LDAP Result Code 65 "Object Class Violation": object class 'posixAccount' requires attribute 'gidNumber'

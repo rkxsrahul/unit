@@ -1,0 +1,55 @@
+[Service]
+  Port = "8000"
+  IsLogoutOthers = "true"
+  Environment = "development"
+  Mails = "admin@stacklabs.co,business@xenonstack.com"
+  SupportEmails="supprt@xenonstack.com,admin@xenonstack.com"
+  ISAWS="false"
+
+  	Port              string
+	Environment       string
+	Build             string
+	Mails             string
+	SupportEmails     string
+	ISAWS             string
+	VerifyLinkTimeout int64
+	InviteLinkTimeout int64
+	IsLogoutOthers    string
+[Database]
+  name = "sl_auth"
+  host = "localhost"
+  port = "26257"
+  user = "root"
+  pass = ""
+  ideal = "50"
+[Redis]
+  database = "0"
+  host = "localhost"
+  port = "6379"
+  pass = ""
+[Admin]
+  email = "admin@stacklabs.co"
+  pass = "admin"
+[Address]
+  FrontEndAddress = "https://stacklabs-auth.xenon.work"
+  Deployment = "https://stacklabs-auth.xenon.work/api/deployments"
+  HostAddress = "xenon.work"
+[Mail]
+  Host = ""
+  Port = "465"
+  From = ""
+  User = ""
+  Pass = ""
+[JWT]
+  PrivateKey = "Ng4Hd9RT4SAp9Z"
+[Jaeger]
+  Host = "localhost"
+  Port = "6831"
+[LDAP]
+Host=""
+Port=""
+AdminDN="cn=admin,dc=neuralcompany,dc=work"
+AdminPass="xxxxxxxxxxxxxxx"
+UserParentDN="ou=users,dc=company,dc=work"
+GroupBase="ou=Groups,dc=company,dc=work"
+UserBase="ou=Users,dc=company,dc=work"

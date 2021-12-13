@@ -1,0 +1,18 @@
+mode: set
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:17.112,39.23 8 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:45.2,55.65 3 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:75.2,76.102 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:39.23,42.3 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:55.65,59.35 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:60.17,63.38 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:64.18,67.78 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:68.14,71.73 2 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:82.79,103.39 9 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:118.2,118.27 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:124.2,124.40 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:103.39,105.107 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:105.107,106.14 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:111.4,111.22 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:106.14,109.5 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:112.9,113.9 1 1
+git.xenonstack.com/stacklabs/stacklabs-auth/src/signin/simplesignin.go:118.27,122.3 3 0
